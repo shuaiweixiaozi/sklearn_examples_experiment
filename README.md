@@ -1,2 +1,2 @@
 # sklearn_examples_experiment
-python machine learning examples
+这个分支用于平时机器学习知识点的试验和测试，待知识点搞懂后会将该分支的代码合并到主干中。
