@@ -11,9 +11,10 @@ SBS算法原理：从原始特征集中移除特征，直到新的特征集数�
 from sklearn.base import clone
 from itertools import combinations
 import numpy as np
-from sklearn.cross_validation import train_test_split
+# from sklearn.cross_validation import train_test_split
 from sklearn.metrics import accuracy_score
 
-class SBS():
 
+class SBS():
     def __init__(self, estimator, k_features, scoring=accuracy_score, test_size=0.25, random_state=1):
+        pass # todo
